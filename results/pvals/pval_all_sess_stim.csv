@@ -1,0 +1,7 @@
+session,decode_for,only_correct_trials,areas,cortex,elec_type,frequency_band,interval,mean_per_class_accuracy,error_bar,n_test_per_class,seed,n_splits,data_size,n_chans,window_size,interval_name
+141126,stim,True,['V1'],Visual,grid,low80high300order3,align_onsamplefrom_time0to_time500,0.4891270332694481,0.02173554572739624,[97. 89. 85. 70. 95.],8258,5,436,12,500,sample
+141126,stim,True,['V1'],Visual,grid,low80high300order3,align_onsamplefrom_time0to_time500,0.5205555064130916,0.02097388504311475,[97. 89. 85. 70. 95.],353,5,436,12,500,sample
+141126,stim,True,['V2'],Visual,grid,low80high300order3,align_onsamplefrom_time0to_time500,0.4845840090422134,0.019591227025309892,[97. 89. 85. 70. 95.],6815,5,436,5,500,sample
+141126,stim,True,['V1'],Visual,grid,low80high300order3,align_onsamplefrom_time0to_time500,0.46751545530492894,0.02188346449833855,[97. 89. 85. 70. 95.],5553,5,436,12,500,sample
+141126,stim,True,['V2'],Visual,grid,low80high300order3,align_onsamplefrom_time0to_time500,0.5009405867610202,0.020600462669802318,[97. 89. 85. 70. 95.],2183,5,436,5,500,sample
+141126,stim,True,['V1'],Visual,grid,low80high300order3,align_onsamplefrom_time0to_time500,0.4653501400560224,0.02105168767333733,[97. 89. 85. 70. 95.],2973,5,436,12,500,sample
